@@ -1,2 +1,2 @@
 # Datastruct
-codes of Datastruct
+code of Datastruct
